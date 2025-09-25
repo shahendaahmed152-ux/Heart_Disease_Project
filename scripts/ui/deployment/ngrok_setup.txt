@@ -1,0 +1,5 @@
+Ngrok setup (local):
+1. Install ngrok from https://ngrok.com/
+2. Run Streamlit: streamlit run ui/app.py
+3. In another terminal run: ngrok http 8501
+4. Copy the public URL and share it.
